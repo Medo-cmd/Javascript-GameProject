@@ -38,7 +38,7 @@ function start() {
     active();
 }
 
-// timer function 
+// timer function //
 function setTimer(second) {
     var timeleft=second;
     const setTimer = setInterval(()=>{
@@ -82,14 +82,14 @@ function changeImage() {
   }
 
  
-//____________________________passed_____________________________________________// 
+//________________________________________________________________________// 
 
 
 
 
 
 
-   //     please here complete writing :    //
+
 
 // Game  button Functionality //                   
 
